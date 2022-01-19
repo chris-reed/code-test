@@ -1,8 +1,8 @@
-Hello ____! Thank you for considering joining the Lawline team. Below is a coding exercise that will allow you
+Hello Chris! Thank you for considering joining the Lawline team. Below is a coding exercise that will allow you
 to highlight your skills.
 
 You have up to 48 hours to submit, however, we respect your time and expect this to only take a few hours. Please make
-commits reguarly so we can track your progress.
+commits regularly, so we can track your progress.
 
 ### Getting Started
 
@@ -57,7 +57,7 @@ Each product must have, but is not limited to:
 #### Database
 
 - MySQL
-- All tables in the database must be created programatically
+- All tables in the database must be created programmatically
 - The user table should be seeded with at least five users
 
 #### Authentication
@@ -88,7 +88,7 @@ You must write tests to back up your code. You are free to use any testing tools
 
 Create a simple ui interface, written in your favorite JS Framework (Preferred: VueJS) for a user to
 
-- View all avaliable products
+- View all available products
 
 **Bonus*
 - Authenticate
